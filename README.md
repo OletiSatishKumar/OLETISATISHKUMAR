@@ -1,10 +1,4 @@
 <div align="center">
-  <h1>👋 Hi, I'm Satish Kumar Oleti!</h1>
-  <p><em>Entry-Level DevOps Engineer | AWS & CI/CD Enthusiast | Building Scalable Cloud Solutions 🚀</em></p>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Satish+Kumar+Oleti!;DevOps+Engineer+%7C+AWS+%26+CI%2FCD+Wizard" alt="Typing SVG"/>
   <p><em>Crafting Scalable Cloud Solutions with Automation & Passion 🚀</em></p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="Coding GIF"/>
 </div>
