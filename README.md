@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Satish%20Kumar%20Oleti&fontSize=40&fontColor=ffffff" alt="Banner"/>
-  <h3>🚀 DevOps Engineer | AWS & CI/CD Maestro</h3>
-  <p>Building the future with code, clouds, and a touch of cricket 🏏</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180§ion=header&text=Satish%20Kumar%20Oleti&fontSize=36&fontColor=ffffff" alt="Banner"/>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=FF9900¢er=true&vCenter=true&width=600&lines=🚀+DevOps+Engineer+#+AWS+&+CI/CD+Maestro" alt="Tagline"/>
+  </h1>
+  <p style="font-size: 18px; font-weight: bold; color: #ffffff; background: linear-gradient(90deg, #FF9900, #FF5500); padding: 10px; border-radius: 10px;">
+    Building the future with code, clouds, and a touch of cricket 🏏
+  </p>
 </div>
 
 ---
@@ -59,7 +63,7 @@
 ### 📈 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OletiSatishKumar&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OletiSatishKumar&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="45%"/>
+  <img Dedupe_1px imgsrc="https://raw.githubusercontent.com/Anupam-K/readme-template/main/assets/tokyonight.png" alt="Tokyonight Theme" width="45%" />
 </div>
 
 ---
@@ -113,5 +117,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer" alt="Footer"/>
 </div>
