@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Satish Kumar Oleti!</h1>
   <p><em>Entry-Level DevOps Engineer | AWS & CI/CD Enthusiast | Building Scalable Cloud Solutions 🚀</em></p>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100"/>
 </div>
 
 ---
