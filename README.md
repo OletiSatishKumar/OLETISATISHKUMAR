@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Satish%20Kumar%20Oleti&fontSize=40&fontColor=ffffff" alt="Banner"/>
-  <h2>🚀 DevOps Engineer | AWS & CI/CD Maestro</h2>
+  <h1>🚀 DevOps Engineer | AWS & CI/CD Maestro</h1>
   <p>Building the future with code, clouds, and a touch of cricket 🏏</p>
 </div>
 
