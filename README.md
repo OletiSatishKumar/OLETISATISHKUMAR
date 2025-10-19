@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 - 🏠 **Location:** Kotipalli, India  
-- ☁️ **Focus:** CI/CD pipelines, cloud automation, and DevOps practices  
+- ☁️ **Focus:** MERN Stack Development, CI/CD pipelines, cloud automation, and DevOps practices  
 - 📚 **Learning:** Kubernetes, Serverless Architecture, Terraform  
 - 🤝 **Open to:** Full-Stack & DevOps collaborations  
 - 💬 **MERN + DevOps + Cricket** — let’s connect!  
