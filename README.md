@@ -64,8 +64,12 @@
 
 ### 💼 Experience
 - **TrueRize IQ Strategic Solutions Pvt Ltd | Node.js Developer**  
-  *Oct 2023 – Present*  
-  Developing scalable backend services with Node.js and integrating CI/CD pipelines.  
+  *Oct 2025 – Present*  
+  Developing scalable backend services with Node.js and integrating CI/CD pipelines.
+
+- **Wipro | Associate**  
+  *Apr 2024 – Feb 2025*  
+  Collaborated in a global environment, improving cross-team communication.
 
 - **Virtusa | SQL Developer Intern**  
   *May 2023 – Aug 2023*  
